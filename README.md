@@ -58,4 +58,15 @@ python3 -m WebStreamer
 and to stop the whole bot,
  do <kbd>CTRL</kbd>+<kbd>C</kbd>
 
+## Commands:
+```
+start - Start the bot
+help - Get Help
+about - About The Bot
+channel - Updates Channel
+support - Support Group
+dev - Developer
+broadcast - Broadcast Message [Owner]
+
+```
 
