@@ -1,10 +1,10 @@
-# <h1> Stream-It </h1>
-<h3> ✨ I'm A Telegram Bot 🤖 That Can Generate Permanent Download 📥 Links 📎 For Provided Telegram File/Media.</h3>
+# <p align="center"><h1> Stream-It </h1></p>
 <p align="center">
     <a href="https://t.me/streamer_fluxbot/">
-        <img src="https://telegra.ph/file/568dc6e14c0fb1cf56666.png" height="100" width="100" alt="FluxStreamerBot">
+        <img src="https://telegra.ph/file/568dc6e14c0fb1cf56666.png" height="200" width="200" alt="FluxStreamerBot">
     </a>
 </p>
+<h4> ✨ I'm A Telegram Bot 🤖 That Can Generate Permanent Download 📥 Links 📎 For Provided Telegram File/Media.</h4>
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
