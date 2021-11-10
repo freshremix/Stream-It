@@ -48,8 +48,8 @@ Then Go To The <a href="#mandatory-vars">variables tab</a> for more info on sett
 
 
 ```py
-git clone https://github.com/avipatilpro/FileStreamBot
-cd FileStreamBot
+git clone https://github.com/Flux-Inc/Stream-It
+cd Stream-It
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -69,4 +69,6 @@ dev - Developer
 broadcast - Broadcast Message [Owner]
 
 ```
+# Developer : 亗 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 亗 《🇮🇳》
+![image](https://user-images.githubusercontent.com/90507645/141120291-62e1ef34-1caf-44f6-ac59-8ac46c9c4d5c.png)
 
