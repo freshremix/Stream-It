@@ -36,33 +36,25 @@
 - `FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS` </details>
 
 
-## ♢ How to make your own :
+## Deploy:
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
-
-<br>
-
-#### ♢ Click on This Drop-down and get more details
+Deploy Locally Or On Heroku [Heroku](https://heroku.com)
 
 <br>
-<details>
-  <summary><b>Deploy on Heroku :</b></summary>
-
+<b>Deploy on Heroku :</b>
 
 1. Fork This Repo
 2. Click on Deploy Easily
 
-<h4> So Follow Above Steps 👆 and then also deply other wise not work</h4>
+<h4> So Follow Above Steps 👆 and then also deploy otherwise won't work</h4>
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Flux-Inc/Stream-It/)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
-
-<details>
-  <summary><b>Host it on VPS Locally :</b></summary>
+<b>Host it on VPS Locally :</b>
 
 
 ```py
@@ -83,14 +75,3 @@ If you're on Heroku, just add these in the Environmental Variables
 or if you're Locally hosting, create a file named `.env` in the root directory and add all the variables there.
 An example of `.env` file:
 
-
- 
-`/start` : To check if the bot is alive or not.
-
-To get an instant stream link, just forward any media to the bot and boom, its fast af.
-
-### Channel Support
-Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Flux-Inc/Stream-It/)
