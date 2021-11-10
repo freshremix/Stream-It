@@ -69,6 +69,11 @@ dev - Developer
 broadcast - Broadcast Message [Owner]
 
 ```
-# Developer : 亗 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 亗 《🇮🇳》
+# Developer : 亗 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 亗 
 ![image](https://user-images.githubusercontent.com/90507645/141120291-62e1ef34-1caf-44f6-ac59-8ac46c9c4d5c.png)
 
+<p align="center">
+    <a href="https://t.me/rulebreakerzzz/">
+        <img src="https://telegra.ph/file/0c04d249c7d383cd1f8d8.png" height="150" width="100" alt="FluxStreamerBot">
+    </a>
+</p>
