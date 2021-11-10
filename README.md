@@ -69,7 +69,7 @@ dev - Developer
 broadcast - Broadcast Message [Owner]
 
 ```
-##                                                                Developer : 亗 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 亗 
+##                                                               <p align="center">Developer : 亗 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 亗 </p>
 <p align="center">
     <a href="https://t.me/rulebreakerzzz/">
         <img src="https://telegra.ph/file/0c04d249c7d383cd1f8d8.png" height="400" width="400" alt="FluxStreamerBot">
