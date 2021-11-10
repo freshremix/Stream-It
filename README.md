@@ -1,5 +1,5 @@
-# <h2> Stream-It </h2>
-<h4> ✨ I'm A Telegram Bot 🤖 That Can Generate Permanent Download 📥 Links 📎 For Provided Telegram File/Media.</h4>
+# <h1> Stream-It </h1>
+<h3> ✨ I'm A Telegram Bot 🤖 That Can Generate Permanent Download 📥 Links 📎 For Provided Telegram File/Media.</h3>
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
