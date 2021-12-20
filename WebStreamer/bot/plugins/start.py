@@ -32,6 +32,7 @@ async def start(b, m):
             except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
+                    photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                     text="**Please Join My Updates Channel To Use Me!🔐\n\n Due To Overload, Only Channel Subscribers Can Use Me!!**",
                     reply_markup=InlineKeyboardMarkup(
                        [
@@ -47,6 +48,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
+                    photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                     text="Something Went Wrong. Contact my [Support Group](https://t.me/fluxsupport).",
                     parse_mode="markdown",
                     disable_web_page_preview=True)
@@ -68,6 +70,7 @@ async def start(b, m):
                 if user.status == "kicked":
                     await b.send_message(
                         chat_id=m.chat.id,
+                        photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                         text="Sorry Sir, You Are Not Allowed To Use Me. Contact My [Developer](t.me/rulebreakerzzz).",
                         parse_mode="markdown",
                         disable_web_page_preview=True
@@ -76,6 +79,7 @@ async def start(b, m):
             except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
+                    photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                     text="**Please Join My Updates Channel To Use This Bot!\n\nDue to Overload, Only Channel Subscribers Can Use This Bot!**",
                     reply_markup=InlineKeyboardMarkup(
                         [
@@ -91,6 +95,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
+                    photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                     text="Something went Wrong. Contact my [Developer](t.me/rulebreakerzzz).",
                     parse_mode="markdown",
                     disable_web_page_preview=True)
@@ -146,6 +151,7 @@ async def help_handler(bot, message):
             if user.status == "kicked":
                 await bot.send_message(
                     chat_id=message.chat.id,
+                    photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                     text="Sorry Sir, You are Not Allowed to Use Me. Contact my [Developer](https://t.me/rulebreakerzzz).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
@@ -154,6 +160,7 @@ async def help_handler(bot, message):
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
+                photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                 text="**Please Join My Updates Channel to use this Bot!**\n\nDue to Overload, Only Channel Subscribers can use the Bot!",
                 reply_markup=InlineKeyboardMarkup(
                   [
@@ -169,6 +176,7 @@ async def help_handler(bot, message):
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
+                photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                 text="Something went Wrong. Contact my [Developer](https://t.me/rulebreakerzzz).",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
@@ -199,6 +207,7 @@ async def help_handler(bot, message):
             if user.status == "kicked":
                 await bot.send_message(
                     chat_id=message.chat.id,
+                    photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                     text="Sorry Sir, You are Banned to use me. Contact my [Developer](https://t.me/rulebreakerzzz).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
@@ -207,6 +216,7 @@ async def help_handler(bot, message):
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
+                photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                 text="**Please Join My Updates Channel to use this Bot!**\n\nDue to Overload, Only Channel Subscribers can use the Bot!",
                 reply_markup=InlineKeyboardMarkup(
                 [
@@ -260,6 +270,7 @@ async def help_handler(bot, message):
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
+                photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                 text="**Please Join My Updates Channel to use this Bot!**\n\nDue to Overload, Only Channel Subscribers can use the Bot!",
                 reply_markup=InlineKeyboardMarkup(
                [
@@ -274,6 +285,7 @@ async def help_handler(bot, message):
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
+                photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                 text="Something went Wrong. Contact my [Developer](https://t.me/rulebreakerzzz).",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
@@ -310,6 +322,7 @@ async def help_handler(bot, message):
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
+                photo = "https://telegra.ph/file/d5d4300d3cd1470aeffbc.jpg"
                 text="**Please Join My Updates Channel to use this Bot!**\n\nDue to Overload, Only Channel Subscribers can use the Bot!",
                 reply_markup=InlineKeyboardMarkup(
                [
